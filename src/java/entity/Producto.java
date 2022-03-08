@@ -1,5 +1,5 @@
 /*
-Autor: Luis Fernando Vásquez Fabián
+Autor: Fernando Lopez Salvador
 Fecha de creación: 7 de marzo del 2022
 Fecha de modificación: 7 de marzo del 2022
 Descripción: Clase producto
